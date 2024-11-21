@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "blablabla",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
