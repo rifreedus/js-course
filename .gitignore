@@ -1,0 +1,7 @@
+.idea
+/uploads
+uploads
+./.idea
+.env
+/src/tmp
+/node_modules
